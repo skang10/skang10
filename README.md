@@ -10,20 +10,20 @@ Now based in Heidelberg, Germany.
 
 `Python` `PyTorch` `Computer Vision` `Tabular AI` `LLM Agents` `TypeScript`
 
----
+<!-- ---
 
 ### ⚡ TemporalAgent
 
 ReAct agent that detects oil market regime shifts using TabPFN for tabular classification,
-with live-streaming reasoning, derivatives pricing, and walk-forward backtesting.
+with live-streaming reasoning, derivatives pricing, and walk-forward backtesting. -->
 
 ---
 
 ### Publications
 
-📄 [Less is More: Active Self-Supervised Learning in Remote Sensing](https://ieeexplore.ieee.org/document/10641888) — IGARSS 2024 (Oral)
+📄 [Less is More: Active Self-Supervised Learning in Remote Sensing](https://ieeexplore.ieee.org/abstract/document/10640981) — IGARSS 2024 (Oral)
 
-📄 [Self-Supervised Learning in Remote Sensing](https://ieeexplore.ieee.org/document/10281677) — IGARSS 2023 (Oral)
+📄 [Self Supervised Learning in Remote Sensing: Quantifying Approaches Effectiveness Across Downstream Tasks](https://ieeexplore.ieee.org/abstract/document/10282926) — IGARSS 2023 (Oral)
 
 ---
 
