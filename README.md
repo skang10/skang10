@@ -1,6 +1,6 @@
 # Hi, I'm Xuemei 👋
 
-*DS → ML → AI. Still following the signal.* 📡
+*DS → ML → AI. Still following the signal* 📡
 
 I started as an Economics student at Peking University, then found myself completely fell deep into machine learning during my CS years at St. Gallen, Switzerland. These days I'm trying to enjoy the full loop: reading papers and blogs, running experiments, and building things that actually ship.
 
