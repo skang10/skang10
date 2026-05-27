@@ -20,4 +20,4 @@ with live-streaming reasoning, derivatives pricing, and walk-forward backtesting
 📄 [Less is More: Active Self-Supervised Learning in Remote Sensing](https://ieeexplore.ieee.org/abstract/document/10640981) — IGARSS 2024 (Oral)
 📄 [Self Supervised Learning in Remote Sensing: Quantifying Approaches Effectiveness Across Downstream Tasks](https://ieeexplore.ieee.org/abstract/document/10282926) — IGARSS 2023 (Oral) -->
 
-🎓 PKU | HSG | UN &nbsp;·&nbsp; 🔍 Open to AI/ML Engineer roles &nbsp;·&nbsp; ✉️ xuemei.jg@gmail.com
+PKU | HSG | UN &nbsp;·&nbsp; 🔍 Open to AI/ML Engineer roles &nbsp;·&nbsp; ✉️ xuemei.jg@gmail.com
